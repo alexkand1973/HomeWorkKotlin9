@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
                 "Dogs" -> iv_thing.setImageResource(listOfDogs.random())
                 "Horses" -> iv_thing.setImageResource(listOfHorsess.random())
             }
-
+            //Изменения для коммита
         }
     }
 }
